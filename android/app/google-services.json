@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "708361822745",
+    "project_id": "olad-280dc",
+    "storage_bucket": "olad-280dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708361822745:android:cf36c5a38b92ff368bc088",
+        "android_client_info": {
+          "package_name": "com.olad.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708361822745-bqt5ckdo124g4ks109lig7h66q97i6s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olad.delivery",
+            "certificate_hash": "cb19c1ad3f2c835e60463f6394dc71feb021ea21"
+          }
+        },
+        {
+          "client_id": "708361822745-r15mik30o5q98cj09v20a02lsp2qf86k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olad.delivery",
+            "certificate_hash": "6d764c5c210868f5d798067d9707ae9555c67e63"
+          }
+        },
+        {
+          "client_id": "708361822745-qjsqj79en3no6qaapnph91lobdk0eo1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kbGH9VD-KjBvOBpv9TPYIyoyXS1OyiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708361822745-qjsqj79en3no6qaapnph91lobdk0eo1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708361822745:android:4a5c9e9b351e3b548bc088",
+        "android_client_info": {
+          "package_name": "com.olad.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708361822745-msa0iipu1mgqn8fsnrpef0pe0i43u9jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olad.org",
+            "certificate_hash": "c64078c776666c0c21717b4cf1ed0bb635cda7b0"
+          }
+        },
+        {
+          "client_id": "708361822745-u46soks3go15uss9gfjuh2ofbh0c85eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olad.org",
+            "certificate_hash": "6d764c5c210868f5d798067d9707ae9555c67e63"
+          }
+        },
+        {
+          "client_id": "708361822745-qjsqj79en3no6qaapnph91lobdk0eo1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kbGH9VD-KjBvOBpv9TPYIyoyXS1OyiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708361822745-qjsqj79en3no6qaapnph91lobdk0eo1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

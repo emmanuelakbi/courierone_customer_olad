@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olad</string>
+
+    <string name="facebook_app_id">398125112365709</string>
+    <string name="fb_login_protocol_scheme">fb398125112365709</string>
+    <string name="facebook_client_token">ecf822f8f041daf2085a5814f2a74c77</string>
+
+</resources>
